@@ -42,11 +42,6 @@
 
 <hr>
 
-* Admin Page: 
-* ![image](https://i.ibb.co/r7Jx1dF/bookiit-admin-page.png)
-
-<hr>
-
 * Cart Page: 
 * ![image](https://i.ibb.co/0jNtFDh/greek-checkout.png)
 
