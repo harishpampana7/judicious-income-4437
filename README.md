@@ -53,7 +53,7 @@
 <hr>
 
 * Payment page
-* ![image](https://i.ibb.co/f0H2d35/greek-shipping-page.png)
+* ![image](https://i.ibb.co/p4S3zFQ/greek-payments-page.png)
 
 <hr>
 
